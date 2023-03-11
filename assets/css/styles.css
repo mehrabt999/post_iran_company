@@ -205,6 +205,9 @@ body.dark-theme {
 .nav__logo{
   color: var(--first-color);
 }
+.logo_title{
+  margin-right: 1rem;
+}
 .nav__link, .nav__toggle {
   color: var(--text-color);
   font-weight: var(--font-semi-bold);
